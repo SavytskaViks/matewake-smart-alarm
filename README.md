@@ -81,7 +81,7 @@
 
 ## 🛠️ Підключення датчиків (ESP32)
 
-![Схема підключення](screenshots/schematic.png)
+![Схема підключення](./screenshots/schematic.png)
 
 ---
 
@@ -155,10 +155,10 @@ cd matewake-smart-alarm
 
 ## 📷 Скриншоти
 ### Веб-інтерфейс
-![Головна сторінка](screenshots/web_main.png)
+![Головна сторінка](./screenshots/web_main.png)
 
 ### Пристрій
-![Фото пристрою](screenshots/device.jpg)
+![Фото пристрою](./screenshots/device.jpg)
 
 ---
 
